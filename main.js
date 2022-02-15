@@ -48,6 +48,7 @@ function evenNumbers(num) {
   // if (num % 2 === 1)
 }
 
+//OR WITH LOOP
 for (let i = 0; i < students.length; i++) {
   num = students[i];
   if (num % 2 === 0) {
